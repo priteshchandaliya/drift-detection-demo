@@ -17,7 +17,7 @@ resource "random_id" "rando" {
 
 
 resource "aws_s3_bucket" "my-bucket" {
-  bucket = "${local.account_id}-my-s3-bucket-${random_id.rando.hex}"
+  bucket = "cloudlabs-s3-bucket"
 
 
   tags = {

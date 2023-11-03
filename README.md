@@ -1,4 +1,4 @@
-# drift-detection-demo
+# Drift Detection Demo
 
 Follow the instructions on the Cloudlabs course.
 You need a Github account to clone this repo.
